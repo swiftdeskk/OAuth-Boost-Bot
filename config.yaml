@@ -1,0 +1,14 @@
+license_key: "Swift-Test-NQCTNa-nMhJu1-ivHu3B"
+bot_token: 'MTI5OTQ2MTM2OTg4Nzk4NTY5NA.GjyhD4.wH8ipfRv13Sh9yUmSkr-rJdL18Wkb1LmSw4HC0'
+client_id: '1299461369887985694'
+client_secret: 'xhuNmDzQ8EnwjEsqbasiZXvDYRKOZUJX'
+redirect_url: 'http://localhost:8080'
+webhook_url: 'https://discord.com/api/webhooks/1303113828963192914/DagKa3Z_AKCI8iTJl6toH2vZISlxMTCsvfFdk48x0cG5G5B2WJbGmeCPiRZbQ4U2BjeL'
+owners:
+  - '1180995483997569028'
+  - '' # Leave blank if there are no other owners
+  - '' # Leave blank if there are no other owners
+embed_color: '6c02ff'
+status:
+  type: 'watching'  # Options: "playing", "watching", "listening", "competing"
+  message: 'Moonly'
